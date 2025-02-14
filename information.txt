@@ -1,0 +1,12 @@
+#we learn node js 
+
+GET /user - List all users 
+GET /user/1 - Get ther user with ID -1
+
+Dynamic Path Prams id 
+GET /users/:id
+
+POST //users - create New user
+
+PATCH/users/1-edit the user with ID 1 
+DELETE/ users/1 - delete the user with id -1 
